@@ -1,6 +1,11 @@
 MFX Lens Interlock Automated Checkout Reports
 =============================================
 
+Notes
+-----
+
+* Data generation time is erroneously in GMT (please subtract 8 hours for accurate California time).
+
 2021/06/09, 3:38 PM
 -------------------
 
