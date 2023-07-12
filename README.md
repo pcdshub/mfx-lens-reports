@@ -89,3 +89,40 @@ Scanning with num_points=100...
 [Report](report_20210609_1638.pdf)
 
 Took approximately 8 minutes from start to finish.
+
+2022/11/09 10:24
+================
+
+1. PLC code: R1.0.1 confirmed to be running
+2. IOC code: R1.0.0 (in release area)
+3. PCDS environment: v4.5.1
+4. Transfocate: v0.5.1
+
+[Report](report_20221109_1024.pdf)
+
+2023/07/12 15:56
+================
+
+1. PLC code: R1.0.1 confirmed to be running (hash ``0327f82``)
+2. IOC code: R1.0.0 (in release area)
+3. PCDS environment: v5.7.2
+4. Transfocate: v0.5.7
+
+
+
+Run on ``mfx-control``.
+
+```
+$ ipython -i -m transfocate.automated_checkout
+
+...
+
+Run scans and generate report? ('yes' to continue)
+yes
+Number of data points? Default: 50
+100
+Scanning with num_points=100...
+```
+
+![Summary](data/20230712_1556/summary.png)
+[Report](report_20230712_1556.pdf)
