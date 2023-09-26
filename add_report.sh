@@ -4,6 +4,7 @@ REPORT_ID=$1
 
 if [ -z "$REPORT_ID" ]; then
     echo "Usage: $0 [report_id]"
+    exit 1
 fi
 
 mkdir -p data/$REPORT_ID/

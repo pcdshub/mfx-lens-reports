@@ -126,3 +126,30 @@ Scanning with num_points=100...
 
 ![Summary](data/20230712_1556/summary.png)
 [Report](report_20230712_1556.pdf)
+
+20230926_1439
+==============
+
+1. PLC code: R1.0.1 confirmed to be running
+2. IOC code: R1.0.0 (released)
+3. PCDS environment: v5.7.3
+4. Transfocate: v0.5.7
+
+Run on ``mfx-control``.
+
+```
+$ ipython -i -m transfocate.automated_checkout
+Run scans and generate report? ('yes' to continue)
+yes
+Number of data points? Default: 50
+50
+Scanning with num_points=50...
+
+...
+
+Generating report...
+Wrote report to report_20230926_1439.pdf
+```
+
+![Summary](data/20230926_1439/summary.png)
+[Report](report_20230926_1439.pdf)
