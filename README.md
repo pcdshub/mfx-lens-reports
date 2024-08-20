@@ -11,7 +11,7 @@ Notes
 
 1. PLC code: R1.0.1 confirmed to be running
 2. IOC code: R1.0.0 (in release area)
-3. PCDS environment: v5.1.1
+3. PCDS environment: v5.8.4
 4. Transfocate: v0.5.5
 
 Run on ``mfx-control``.
@@ -153,3 +153,24 @@ Wrote report to report_20230926_1439.pdf
 
 ![Summary](data/20230926_1439/summary.png)
 [Report](report_20230926_1439.pdf)
+
+20240820_1503
+==============
+
+1. PLC code: 
+2. IOC code: 
+3. PCDS environment: 
+4. Transfocate: 
+
+Run on ````.
+
+```
+$ ipython -i -m transfocate.automated_checkout
+
+...
+
+((output here))
+```
+
+![Summary](data/20240820_1503/summary.png)
+[Report](report_20240820_1503.pdf)
