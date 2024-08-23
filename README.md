@@ -158,7 +158,7 @@ Wrote report to report_20230926_1439.pdf
 ==============
 
 1. PLC code: 
-2. IOC code: 
+2. IOC code: R1.0.0
 3. PCDS environment: 
 4. Transfocate: 
 
