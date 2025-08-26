@@ -183,7 +183,7 @@ $ ipython -i -m transfocate.automated_checkout
 3. PCDS environment: v6.0.1
 4. Transfocate: v0.5.9 
 
-Run on ````.
+Run on ``mfx-mezz01``.
 
 ```
 $ ipython -i -m transfocate.automated_checkout
