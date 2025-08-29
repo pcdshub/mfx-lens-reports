@@ -158,7 +158,7 @@ Wrote report to report_20230926_1439.pdf
 ==============
 
 1. PLC code: 
-2. IOC code: 
+2. IOC code: R1.0.0
 3. PCDS environment: 
 4. Transfocate: 
 
@@ -174,3 +174,24 @@ $ ipython -i -m transfocate.automated_checkout
 
 ![Summary](data/20240820_1503/summary.png)
 [Report](report_20240820_1503.pdf)
+
+20250826_1231
+==============
+
+1. PLC code:  
+2. IOC code: R1.0.0 
+3. PCDS environment: v6.0.1
+4. Transfocate: v0.5.9 
+
+Run on ``mfx-mezz01``.
+
+```
+$ ipython -i -m transfocate.automated_checkout
+
+...
+
+((output here))
+```
+
+![Summary](data/20250826_1231/summary.png)
+[Report](report_20250826_1231.pdf)
