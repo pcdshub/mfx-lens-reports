@@ -195,3 +195,25 @@ $ ipython -i -m transfocate.automated_checkout
 
 ![Summary](data/20250826_1231/summary.png)
 [Report](report_20250826_1231.pdf)
+
+20260923_1352
+==============
+
+1. PLC code: R1.0.1
+2. IOC code: R1.0.0 
+3. PCDS environment: v6.01 
+4. Transfocate: v0.5.9
+
+Run on ``mfx-control``.
+
+```
+$ ipython -i -m transfocate.automated_checkout
+
+...
+
+((output here))
+```
+
+![Summary](data/20260923_1352/summary.png)
+[Report](report_20260923_1352.pdf)
+
